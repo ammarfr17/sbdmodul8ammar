@@ -52,7 +52,7 @@ export default function App() {
       <div className="flex flex-col items-center justify-center w-full px-6 py-16 text-center" id="home">
        <img src="/Logo.svg" className="w-60 h-78 mb-6" alt="Netlab Logo" />
          <h2 className="text-4xl font-bold mb-4">Selamat datang di NETLAB Web!!</h2>
-      </div>
+        </div>
 
       {/* SBD Section */}
       <div className="flex w-full justify-center" id="sbd">
